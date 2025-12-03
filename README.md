@@ -6,7 +6,7 @@ To cite the contents of this repository, please cite both the paper and this rep
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{IMData,
+@misc{SIRData,
   author =        {Juan-Alberto Estrada-Garcia and Siqian Shen},
   publisher =     {},
   title =         {Optimizing Inspection Routes and Schedules for Infrastructure Systems under Stochastic Decision-dependent Failures},
